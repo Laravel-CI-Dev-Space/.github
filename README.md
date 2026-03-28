@@ -4,7 +4,7 @@
 
 Laravel Côte d'Ivoire est la première communauté structurée dédiée aux développeurs Laravel en Côte d'Ivoire et dans la diaspora ivoirienne.
 
-On est plus de **500 membres** — juniors, confirmés, freelances, salariés, étudiants — réunis autour d'un même framework et d'une même conviction : les développeurs ivoiriens méritent un espace à eux pour apprendre, partager, progresser et peser dans l'écosystème tech mondial.
+On est plus de **500 membres** : juniors, confirmés, freelances, salariés, étudiants : réunis autour d'un même framework et d'une même conviction : les développeurs ivoiriens méritent un espace à eux pour apprendre, partager, progresser et peser dans l'écosystème tech mondial.
 
 ---
 
@@ -16,16 +16,16 @@ Pendant longtemps, les développeurs Laravel ivoiriens ont évolué sans communa
 
 On a décidé que ça devait changer.
 
-On croit que les prochaines grandes applications africaines seront construites par des développeurs ivoiriens. On croit que ces développeurs méritent les mêmes ressources, le même réseau et la même visibilité que leurs pairs en Europe ou en Amérique du Nord. Et on croit que ça commence ici — entre nous, maintenant.
+On croit que les prochaines grandes applications africaines seront construites par des développeurs ivoiriens. On croit que ces développeurs méritent les mêmes ressources, le même réseau et la même visibilité que leurs pairs en Europe ou en Amérique du Nord. Et on croit que ça commence ici : entre nous, maintenant.
 
 ---
 
 ## Notre mission
 
-- **Partager** — Produire et diffuser des ressources Laravel de qualité en français, adaptées au contexte ivoirien
-- **Entraider** — Créer un espace où chaque développeur, quel que soit son niveau, peut poser ses questions et trouver de l'aide
-- **Connecter** — Relier les développeurs ivoiriens aux opportunités locales et internationales
-- **Contribuer** — Initier et maintenir des projets open source utiles à l'écosystème Laravel africain
+- **Partager** : Produire et diffuser des ressources Laravel de qualité en français, adaptées au contexte ivoirien
+- **Entraider** : Créer un espace où chaque développeur, quel que soit son niveau, peut poser ses questions et trouver de l'aide
+- **Connecter** : Relier les développeurs ivoiriens aux opportunités locales et internationales
+- **Contribuer** : Initier et maintenir des projets open source utiles à l'écosystème Laravel africain
 
 ---
 
@@ -34,7 +34,7 @@ On croit que les prochaines grandes applications africaines seront construites p
 | Valeur | Description |
 |--------|-------------|
 | 🤝 Bienveillance | Aucune question n'est stupide. Chaque membre est accueilli avec respect et patience |
-| ⭐ Excellence | On vise toujours la qualité — dans le code, les contenus et les événements |
+| ⭐ Excellence | On vise toujours la qualité : dans le code, les contenus et les événements |
 | 🌍 Inclusion | Ouvert à tous sans discrimination de niveau, genre, origine ou statut |
 | 🔓 Ouverture | On collabore avec les autres communautés Laravel dans le monde |
 
@@ -66,7 +66,7 @@ Cette organisation GitHub héberge les projets communautaires initiés par et po
 
 ## Comment contribuer ?
 
-Toutes les contributions sont les bienvenues — que tu sois junior ou senior, développeur ou rédacteur.
+Toutes les contributions sont les bienvenues : que tu sois junior ou senior, développeur ou rédacteur.
 
 ### Tu peux contribuer en :
 
@@ -104,9 +104,9 @@ Laravel Côte d'Ivoire organise des événements réguliers pour que la communau
 
 | Événement | Format | Fréquence |
 |-----------|--------|-----------|
-| 📍 Meetup Laravel CI Abidjan | Physique — Abidjan | Mensuel |
+| 📍 Meetup Laravel CI Abidjan | Physique : Abidjan | Mensuel |
 | 💻 Meetup Virtuel | En ligne | Bimestriel |
-| 🏆 Hackathon Laravel CI | En ligne — équipes 3 à 5 | Semestriel |
+| 🏆 Hackathon Laravel CI | En ligne : équipes 3 à 5 | Semestriel |
 | 🎤 Laravel CI Day | Hybride Abidjan + stream | Annuel |
 
 Pour ne rater aucun événement, abonne-toi à notre [chaîne WhatsApp officielle](https://whatsapp.com/channel/0029VbCgswtBfxo65IKIb81W).
@@ -130,9 +130,9 @@ Laravel Côte d'Ivoire fait partie d'un réseau francophone et international de 
 
 Tu veux faire partie de l'aventure ?
 
-**Peu importe ton niveau, ton statut ou l'endroit où tu te trouves — si Laravel fait partie de ta vie ou va en faire partie bientôt, t'as ta place ici.**
+**Peu importe ton niveau, ton statut ou l'endroit où tu te trouves : si Laravel fait partie de ta vie ou va en faire partie bientôt, t'as ta place ici.**
 
-👉 **[Remplis le formulaire d'adhésion](https://forms.gle/iBAB1o9ZbhqedVAv7)** — ça prend 2 minutes.
+👉 **[Remplis le formulaire d'adhésion](https://forms.gle/iBAB1o9ZbhqedVAv7)** : ça prend 2 minutes.
 
 Les admissions sont manuelles. On te recontacte sous 48h après ton inscription pour t'intégrer dans les bons espaces.
 
